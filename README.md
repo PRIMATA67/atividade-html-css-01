@@ -1,2 +1,8 @@
-# atividade-html-css-01
-# 📝 Entrega do Exercício 01 - Programação Web  - **Aluno:** [ Seu Nome Completo ] - **Turma:** [ Sua Turma ] - **Data de Entrega:** [ DD/MM/AAAA ]  --- **Professor responsável:** @eduardo97mendes
+# 📝 Entrega do Exercício 01 - Programação Web
+
+- **Aluno:** [ Andrei Queiroz da Silva ]
+- **Turma:** [ 203 de Internet ]
+- **Data de Entrega:** [ 28/09/2026 ]
+
+---
+**Professor responsável:** @eduardo97mendes
